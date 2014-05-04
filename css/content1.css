@@ -1,0 +1,39 @@
+
+
+h3
+{
+    font:bold 14px arial;
+    color:#0099FF;
+}
+h4
+{
+    font:bold 14px arial; color:gray; margin:0; padding:0;
+}
+hr
+{
+    border-top:1px solid #fff; border-right:1px solid #fff; border-bottom:1px solid #ccc; border-left:1px solid #fff; color: white
+}
+table
+{
+    border-collapse:collapse;
+}
+.bodyNoSPC
+{
+    width:850px; margin:0 auto;
+}
+.txtfld
+{
+    width:120px; border:1px solid #ccc; font:11px arial; color:#333;
+}
+.txtfldPwd
+{
+    width:100px; border:1px solid #ccc; font:12px arial; color:#333;
+}
+.normalfld
+{
+    width:100px; border:1px solid #ccc; text-align:center; font:11px arial; height:18px;
+}
+.bigfld
+{
+    width:180px; border:1px solid #ccc; font:11px arial; color:#333;
+}

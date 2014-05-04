@@ -1,0 +1,17 @@
+/* CSS Document */
+body
+{
+    margin:0; padding:0; font:14px arial; background-color:#6495ED; color: black;
+}
+table
+{
+    border-collapse:collapse;
+}
+.main
+{
+    width:905px; margin:0 auto; background:url(/beta_images/bgnd_sides.gif) repeat-y; text-align:center;
+}
+#header
+{
+    width:905px; height:77px; background:url(/beta_images/header_beta.gif) no-repeat;
+}
